@@ -1,6 +1,4 @@
 # parallel-governance
 DSI environment for am4ideahu
 
-theAndris
-contributors' Directory
-
+[wk](https://github.com/amdrado/parallel-governance.wiki.git)
