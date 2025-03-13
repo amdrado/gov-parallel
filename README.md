@@ -1,6 +1,18 @@
 # parallel-governance
 DSI environment for am4ideahu
 
+
+
+
+
+
+----
+
+
+
+
+
+-------------
 link C-C-F readME
 
 link OSInt junctions
